@@ -16,7 +16,7 @@
 <tr>
 <td width="30%" valign="top">
 
-<img src="https://avatars.githubusercontent.com/u/emmyzee45?v=4" width="220" style="border-radius:50%" />
+<img src="https://avatars.githubusercontent.com/u/105682637?v=4" width="220" style="border-radius:50%" />
 
 ### 📄 Resume
 - [Academic CV](#)
